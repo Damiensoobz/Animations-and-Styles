@@ -1,0 +1,25 @@
+/* Resets some of the basic HTML elements */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+/* Responsive breakpoints */
+@media (max-width: 600px) {
+    /* Styles for mobile */
+
+}
+
+@media (max-width: 600px) {
+    /* Styles for tablets */
+    
+}
+
+@media (max-width: 600px) {
+    /* Styles for desktop */
+    
+}
